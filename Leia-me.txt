@@ -1,0 +1,18 @@
+						APS DAD - 835
+Nome dos Integrantes:
+
+--> Nicolly Evelym Santos Guimarães  -- 2016103181
+--> Allan Wanderley Alves -- 2016201683
+--> Luiz Felipe Gonçalves Rodrigues --
+--> Patrick Pereira de Azevedo --
+
+--------------------------------------------------------------------------------------------------------------------
+
+Como Abrir:
+
+1- Importe as pastas Cliente e Servidor no Netbeans;
+2- Execute o projeto Servidor que está dentro do pacote aps.chat;
+3- Execute o projeto Cliente (quantas instancias permitir) que está dentro do pacote aps.chat;
+
+
+
