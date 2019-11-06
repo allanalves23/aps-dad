@@ -16,6 +16,9 @@ A cada instancia executada do cliente será possível abrir conexão no servidor
 Integrantes do grupo:
 
 **Nicolly Evelym Santos Guimarães** - Programadora
+
 **Allan Wanderley Alves** - Programador
+
 **Luiz Felipe Gonçalves Rodrigues** - Programador
+
 **Patrick Pereira de Azevedo** - Programador
